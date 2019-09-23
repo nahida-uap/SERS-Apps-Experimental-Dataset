@@ -2,7 +2,7 @@
 
 All the APKs are availabale here:
 
-   [Dataset - (Publically available)](https://drive.google.com/open?id=1TqvjllD_NumhEvhOaruBTUJFQM75gg5d)
+   [Dataset](https://drive.google.com/open?id=1TqvjllD_NumhEvhOaruBTUJFQM75gg5d)
 
 
 

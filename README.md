@@ -6,4 +6,6 @@ All the APKs are availabale here:
 
 
 
-[due to the size limitation all the apks are not uploaded here!]
+
+
+[due to the size limitation all the apks are not uploaded in github!!!]

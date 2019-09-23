@@ -1,0 +1,7 @@
+For each review it contains the following information:
+  - Review ID
+  - Application ID
+  - Review Text
+  - Review posted Date
+  - Review Rating
+  - Review Owner

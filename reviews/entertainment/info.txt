@@ -1,6 +1,6 @@
 For each review it contains the following information:
-  - Review ID
-  - Application ID
+  - Review ID (auto-increment id - it's not a googlePlayStore given ID)
+  - Application ID (each application is associated with an ID - it's not a googlePlayStore given ID)
   - Review Text
   - Review posted Date
   - Review Rating
